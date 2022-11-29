@@ -1,1 +1,2 @@
 Kalina Filus
+Wyszukiwarka Google pozycjonuje wyniki obliczając wartości własne macierzy
