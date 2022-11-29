@@ -1,1 +1,51 @@
 Linux DESKTOP-AU9HI14 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        3974192 kB
+MemFree:         3525060 kB
+MemAvailable:    3485248 kB
+Buffers:           17016 kB
+Cached:           114236 kB
+SwapCached:            0 kB
+Active:            65264 kB
+Inactive:         140496 kB
+Active(anon):        160 kB
+Inactive(anon):    74632 kB
+Active(file):      65104 kB
+Inactive(file):    65864 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       1048576 kB
+SwapFree:        1048576 kB
+Dirty:                40 kB
+Writeback:             8 kB
+AnonPages:         72800 kB
+Mapped:            22756 kB
+Shmem:               284 kB
+KReclaimable:      21264 kB
+Slab:              48620 kB
+SReclaimable:      21264 kB
+SUnreclaim:        27356 kB
+KernelStack:        2448 kB
+PageTables:          856 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     3035672 kB
+Committed_AS:     252648 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       22284 kB
+VmallocChunk:          0 kB
+Percpu:             2784 kB
+AnonHugePages:     57344 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:       31744 kB
+DirectMap2M:     3069952 kB
+DirectMap1G:     9437184 kB
